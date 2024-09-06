@@ -2401,7 +2401,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/05f7fef8e5949bcf57c64.jpg',
+                                thumbnailUrl:'https://telegra.ph/file/b5d9f8b17a8b94b6d3ec9.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2419,7 +2419,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/01312b4850666a5f5b202.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/b5d9f8b17a8b94b6d3ec9.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
