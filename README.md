@@ -45,7 +45,7 @@
 2. Edit the database folder 📂 (owner and premium file to your number)
 Use this link to deploy on panel
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -65,7 +65,7 @@ Credits: Lord-No-Name for support
   <p>CONTACT ME FOR ANY ISSUE</p>
 
   
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
