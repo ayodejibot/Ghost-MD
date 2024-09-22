@@ -1,5 +1,5 @@
 # Ghost-MD
-![image (2)](https://github.com/user-attachments/assets/e47c4048-f0d8-4a49-97e7-1094d02cd4e2)
+![IMG-20240905-WA0092](https://github.com/user-attachments/assets/e6dadad1-ce26-429c-837b-c759f966ec29)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
