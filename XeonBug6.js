@@ -1299,7 +1299,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Palmpay 9171214451 Ayodeji Folasade Rebecca \n\n' + textnate
+                    text: 'Palmpay 9071214451 Ayodeji Folasade Rebecca \n\n' + textnate
                 }, {
                     quoted: m
                 })
