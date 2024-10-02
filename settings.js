@@ -18,7 +18,7 @@ global.location = "Africa/Lagos"
 
 global.ownernumber = '2348122441244'  //creator number
 global.ownername = 'Dark-Love-MD' //owner name
-global.botname = 'Ghost-Walker ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'Ghost-MD ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
