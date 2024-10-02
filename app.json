@@ -1,7 +1,7 @@
 {
-	"name": "hitori",
+	"name": "Ghost-MD",
 	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/nazedev/hitori",
+	"repository": "https://github.com/ayodejibot/Ghost-MD",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
