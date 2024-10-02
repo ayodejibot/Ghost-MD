@@ -1279,7 +1279,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `If you want the Script Click the image above 🙂`,
+                    text: `If you want the Script Click the image above 🙂 or you click on the repo link https://github/ayodejibot/Ghost-MD `,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
