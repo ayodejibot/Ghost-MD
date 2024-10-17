@@ -54,6 +54,10 @@ Use this link to deploy on panel
 
 <p><a href="https://bot-hosting.net/?aff=1264661476539633694"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/ Deploy On Panel-h?color=green&style=for-the-badge&logo=discord" width="230" height="38.45"/></a></p>
 
+Deploy on Heroku 
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Heroku Deploy" src="https://img.shields.io/badge Heroku-h?color=purple&style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
