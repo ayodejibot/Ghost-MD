@@ -50,14 +50,13 @@
 ## Get Session ID Here
 <p><a href="https://silva-creds.onrender.com/pair"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/ Get Session ID-h?color=yellow&style=for-the-badge&logo=Session ID" width="230" height="38.45"/></a></p>
 
-# Deploy on Heroku 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Heroku Deploy" src="https://img.shields.io/badge Heroku-h?color=purple&style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
+## Deploy on Heroku 
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/ heroku-h?color=blue&style=for-the-badge&logo=Session ID" width="230" height="38.45"/></a></p>
 
-
-# Deploy on render 
+## Deploy on render 
 
 Create A Render Account
-<p><a href="https://dashboard.render.com/register"><img title="Create Account" src="https://img.shields.io/badge Render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+<p><a href="https://dashboard.render.com/register"><img title="Create Account" src="https://img.shields.io/badge render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 Deploy On Render
 <p><a href="https://dashboard.render.com/web/new"><img title="Deploy On Render" src="https://img.shields.io/badge Render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
