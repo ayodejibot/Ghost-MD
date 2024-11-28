@@ -56,13 +56,10 @@
 ## Deploy on render 
 
 Create A Render Account
-<p><a href="https://dashboard.render.com/register"><img title="Deploy On Heroku" src="https://img.shields.io/badge/ heroku-h?color=blue&style=for-the-badge&logo=Session ID" width="200" height="38.45"/></a></p>
-
-<p><a href="https://dashboard.render.com/register"><img title="Render" src="https://img.shields.io/badge render-r?color=red&style=for-the-badge&logo=render" width="200" height="38.45"/></a></p>
+<p><a href="https://dashboard.render.com/register"><img title="Render" src="https://img.shields.io/badge/ render-r?color=black&style=for-the-badge&logo=render" width="200" height="38.45"/></a></p>
 
 Deploy On Render
-<p><a href="https://dashboard.render.com/web/new"><img title="Deploy On Render" src="https://img.shields.io/badge Render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
-
+<p><a href="https://dashboard.render.com/web/new"><img title="Render" src="https://img.shields.io/badge/ render-r?color=black&style=for-the-badge&logo=render" width="200" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
