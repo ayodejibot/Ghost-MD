@@ -40,10 +40,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-##### Deployment method on Panel
-1. Fork and star the repo
-2. Edit the database folder 📂 (owner and premium file to your number)
-Use this link to deploy on panel
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -57,6 +53,14 @@ Use this link to deploy on panel
 Deploy on Heroku 
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Heroku Deploy" src="https://img.shields.io/badge Heroku-h?color=purple&style=for-the-badge&logo=Heroku" width="220" height="38.45"/></a></p>
 
+
+Deploy on render 
+
+Create A Render Account
+<p><a href="https://dashboard.render.com/register"><img title="Create Account" src="https://img.shields.io/badge Render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+
+Deploy On Render
+<p><a href="https://dashboard.render.com/web/new"><img title="Deploy On Render" src="https://img.shields.io/badge Render-r?color=black&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
