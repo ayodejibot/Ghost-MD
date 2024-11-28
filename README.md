@@ -51,7 +51,7 @@
 <p><a href="https://silva-creds.onrender.com/pair"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/ Get Session ID-h?color=yellow&style=for-the-badge&logo=Session ID" width="230" height="38.45"/></a></p>
 
 ## Deploy on Heroku 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/ heroku-h?color=blue&style=for-the-badge&logo=Session ID" width="200" height="38.45"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/ayodejibot/Ghost-MD"><img title="Deploy On Heroku" src="https://img.shields.io/badge/ heroku-h?color=blue&style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 ## Deploy on render 
 
